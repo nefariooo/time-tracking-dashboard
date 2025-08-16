@@ -27,7 +27,7 @@ const cardHead = {
 
 (function(){
     window.myApp = {};
-    fetch('./data.json')
+    fetch('../data/data.json')
     .then(res => {
         if(!res)
             return console.error("Something went wrong!");
