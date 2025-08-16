@@ -170,6 +170,7 @@ body{
 .last-week-hours{
   color: var(--navy-200);
   font-size: clamp(1rem, calc(1.2vw - 0.1rem),1.3rem);
+  white-space: nowrap;
 }
 
 
