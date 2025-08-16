@@ -43,7 +43,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/nefariooo/time-tracking-dashboard.git)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://magnificentthrush-06-time-tracking-db.netlify.app/)
 
 ## My process
 
@@ -66,8 +66,6 @@ Learned about IIFE and namespaces
 - [Stack Overflow](https://stackoverflow.com/questions) - Best place to find the answer to every question even the  most basics one too.
 - [W3 School](https://www.w3schools.com/css/default.asp) - Great website for CSS material and JS.
 - [MDN Mozilla Developers](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Excellent and in-depth detail about frontend.
-
-## Author
 
 ## Author
 
